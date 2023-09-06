@@ -9,3 +9,7 @@ More info in https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan
 
 
 ![Captura de pantalla 2023-09-06 233328](https://github.com/emo44/Real_ESRGAN-drag-and-drop-for-windows/assets/2462238/b898a09b-c36c-4863-9a8a-153caf9ad480)
+
+
+https://github.com/emo44/Real_ESRGAN-drag-and-drop-for-windows/assets/2462238/a83bf428-7638-40c7-9e40-dfd20854ccb4
+
