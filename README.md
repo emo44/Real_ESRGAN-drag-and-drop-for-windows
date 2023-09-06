@@ -1,7 +1,7 @@
 # Real_ESRGAN-drag-and-drop-for-windows
 Real_ESRGAN drag and drop for windows executable
 
-A simple program calling Real_ESRGAN with drag & drop
+A simple program calling Real_ESRGAN with drag & drop and the posibility of process the result image
 
 More info in https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan
 
