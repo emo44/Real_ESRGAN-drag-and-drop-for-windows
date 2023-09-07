@@ -1,4 +1,4 @@
-# Real_ESRGAN-drag-and-drop-for-windows
+# Simple-drag-and-drop-interface-for-Real_ESRGAN-for-windows 
 Real_ESRGAN drag and drop for windows executable
 
 A simple program interface calling Real_ESRGAN with drag & drop and the posibility of process the result image
